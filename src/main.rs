@@ -1,3 +1,5 @@
+// https://doc.rust-lang.org/stable/rust-by-example/
+
 // This is a comment, and is ignored by the compiler.
 // You can test this code by clicking the "Run" button over there ->
 // or if you prefer to use your keyboard, you can use the "Ctrl + Enter"
